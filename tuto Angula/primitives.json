@@ -1,0 +1,10 @@
+{
+	"primitives" :
+	[
+		{"type":"CharacterString"},
+		{"type":"Real"},
+		{"type":"Integer"},
+		{"type":"Decimal"},
+		{"type":"Url"}
+	]
+}
