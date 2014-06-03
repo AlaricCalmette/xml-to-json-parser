@@ -9,10 +9,13 @@
 </head>
 <body>
 	<div id='content' ng-app='MyTutorialApp' ng-controller='MainController' >
+		Title of the block : <input ng-model='blocktitle' type='text' name='blockTitle'><br>
 		<select ng-model='selectedtype' ng-options='item.tagname for item in types.name'>
 			<option value="">select type</option> 
 		</select>
-		<br>Title of the block : <input ng-model='blocktitle' type='text' name='blockTitle'><br>
+		<p ng-show = 'primitives.indexOf(selectedtype.tagname) != -1'> 
+			value of the field : <input ng-model='blockvalue' type='text' name='blockvalue'><br>
+		</p>
 		<select ng-model='parentblock' ng-options='block[0] for block in blocks'>
 			<option value="">select parent block</option> 
 		</select>

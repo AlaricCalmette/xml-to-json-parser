@@ -5,6 +5,10 @@
         "#text": "Abstract"
       },
       {
+        "tagname": "gco:CharacterString",
+        "#text": "Primitive type"
+      },
+      {
         "tagname": "gmd:accessConstraints",
         "#text": "Access constraints"
       },
