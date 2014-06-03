@@ -1,5 +1,6 @@
 
 <!DOCTYPE html>
+<html>
 <head>
 	<title>Learning AngularJS</title>
 	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js" type="text/javascript"></script>
@@ -7,12 +8,20 @@
 	<script src="maincontroller.js" type="text/javascript"></script>
 </head>
 <body>
-	<div id='content' ng-app='MyTutorialApp' ng-controller='MainController'>
-		{{types}}
-		<button ng-click='dis()'>Add</button>
-		<select ng-model='selectedtype'>
-			<option ng-repeat='label in types[name].tagname'>{{label}}</option>
+	<div id='content' ng-app='MyTutorialApp' ng-controller='MainController' >
+		<select ng-model='selectedtype' ng-options='item.tagname for item in types.name'>
+			<option value="">select type</option> 
 		</select>
+		<br>Title of the block : <input ng-model='blocktitle' type='text' name='blockTitle'><br>
+		<select ng-model='parentblock' ng-options='block[0] for block in blocks'>
+			<option value="">select parent block</option> 
+		</select>
+		<button  ng-click='addBlock()'>Add</button>
+		<div id='blocks' ng-app='MyTutorialApp' ng-controller='MainController' ng-repeat='block in blocks' >
+				<h1>{{block[0]}}</h1>
+				<p>{{block[1]}}</p>
+		</div>
+	</div>
 
 </body>
 </html>
