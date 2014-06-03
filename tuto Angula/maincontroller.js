@@ -2,8 +2,7 @@ app.controller("MainController", function($scope,$http){
 
  $scope.blocks = [];
   $scope.addBlock = function(){
-      $scope.blocks.push([$scope.blocktitle,$scope.selectedtype.tagname]);
-      
+      $scope.blocks.push([$scope.blocktitle,$scope.selectedtype.tagname,$scope.parentblock]);
     }
 
   $scope.test = "";
