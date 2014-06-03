@@ -1,0 +1,2592 @@
+{
+    "name": [
+      {
+        "tagname": "gmd:abstract",
+        "#text": "Abstract"
+      },
+      {
+        "tagname": "gmd:accessConstraints",
+        "#text": "Access constraints"
+      },
+      {
+        "tagname": "gmd:address",
+        "#text": "Address"
+      },
+      {
+        "tagname": "gmd:administrativeArea",
+        "#text": "Administrative area"
+      },
+      {
+        "tagname": "gmd:aggregateDataSetIdentifier",
+        "#text": "Aggregate Data Set Identifier"
+      },
+      {
+        "tagname": "gmd:aggregateDataSetName",
+        "#text": "Aggregate Data Set Name"
+      },
+      {
+        "tagname": "gmd:aggregationInfo",
+        "#text": "Aggregation Info"
+      },
+      {
+        "tagname": "gmd:alternateTitle",
+        "#text": "Alternate title"
+      },
+      {
+        "tagname": "gmd:amendmentNumber",
+        "#text": "Amendment number"
+      },
+      {
+        "tagname": "gmd:applicationProfile",
+        "#text": "Application profile"
+      },
+      {
+        "tagname": "gmd:applicationSchemaInfo",
+        "#text": "Application schema info"
+      },
+      {
+        "tagname": "gmd:associationType",
+        "#text": "Association Type"
+      },
+      {
+        "tagname": "gmd:attributeDescription",
+        "#text": "Attribute description"
+      },
+      {
+        "tagname": "gmd:attributeInstances",
+        "#text": "Attribute instances"
+      },
+      {
+        "tagname": "gmd:attributes",
+        "#text": "Attributes"
+      },
+      {
+        "tagname": "gmd:authority",
+        "#text": "Authority"
+      },
+      {
+        "tagname": "gmd:axisDimensionProperties",
+        "#text": "Axis Dimension Properties"
+      },
+      {
+        "tagname": "gmd:bitsPerValue",
+        "#text": "Bits per value"
+      },
+      {
+        "tagname": "gmd:cameraCalibrationInformationAvailability",
+        "#text": "Camera calibration information availability"
+      },
+      {
+        "tagname": "gmd:cellGeometry",
+        "#text": "Cell geometry"
+      },
+      {
+        "tagname": "gmd:centerPoint",
+        "#text": "Center point"
+      },
+      {
+        "tagname": "gmd:characterEncoding",
+        "#text": "Character Encoding"
+      },
+      {
+        "tagname": "gmd:characterSet",
+        "#text": "Character set"
+      },
+      {
+        "tagname": "gmd:checkPointAvailability",
+        "#text": "Check point availability"
+      },
+      {
+        "tagname": "gmd:checkPointDescription",
+        "#text": "Check point description"
+      },
+      {
+        "tagname": "gmd:CI_Address",
+        "#text": "Address"
+      },
+      {
+        "tagname": "gmd:CI_Citation",
+        "#text": "Citation"
+      },
+      {
+        "tagname": "gmd:CI_Contact",
+        "#text": "Contact"
+      },
+      {
+        "tagname": "gmd:CI_Date",
+        "#text": "Date"
+      },
+      {
+        "tagname": "gmd:CI_DateTypeCode",
+        "#text": "Date type code"
+      },
+      {
+        "tagname": "gmd:CI_OnLineFunctionCode",
+        "#text": "Online function code"
+      },
+      {
+        "tagname": "gmd:CI_OnlineResource",
+        "#text": "Online Resource"
+      },
+      {
+        "tagname": "gmd:CI_PresentationFormCode",
+        "#text": "Presentation form code"
+      },
+      {
+        "tagname": "gmd:CI_ResponsibleParty",
+        "#text": "Responsible party"
+      },
+      {
+        "tagname": "gmd:CI_RoleCode",
+        "#text": "Role code"
+      },
+      {
+        "tagname": "gmd:CI_Series",
+        "#text": "Series"
+      },
+      {
+        "tagname": "gmd:CI_Telephone",
+        "#text": "Telephone"
+      },
+      {
+        "tagname": "gmd:citation",
+        "#text": "Citation"
+      },
+      {
+        "tagname": "gmd:citedResponsibleParty",
+        "#text": "Cited responsible party"
+      },
+      {
+        "tagname": "gmd:city",
+        "#text": "City"
+      },
+      {
+        "tagname": "gmd:classification",
+        "#text": "Classification"
+      },
+      {
+        "tagname": "gmd:classificationSystem",
+        "#text": "Classification system"
+      },
+      {
+        "tagname": "gmd:cloudCoverPercentage",
+        "#text": "Cloud cover percentage"
+      },
+      {
+        "tagname": "gmd:code",
+        "#text": "Code"
+      },
+      {
+        "tagname": "gmd:codeSpace",
+        "#text": "Code Space"
+      },
+      {
+        "tagname": "gmd:collectiveTitle",
+        "#text": "Collective title"
+      },
+      {
+        "tagname": "gmd:complianceCode",
+        "#text": "Compliance code"
+      },
+      {
+        "tagname": "gmd:composedOf",
+        "#text": "Composed of"
+      },
+      {
+        "tagname": "gmd:compressionGenerationQuantity",
+        "#text": "Compression generation quantity"
+      },
+      {
+        "tagname": "gmd:condition",
+        "#text": "Condition"
+      },
+      {
+        "tagname": "gmd:constraintLanguage",
+        "#text": "Constraint language"
+      },
+      {
+        "tagname": "gmd:contact",
+        "#text": "Metadata author"
+      },
+      {
+        "tagname": "gmd:contact",
+        "#text": "Metadata author"
+      },
+      {
+        "tagname": "gmd:contactInfo",
+        "#text": "Contact info"
+      },
+      {
+        "tagname": "gmd:contactInstructions",
+        "#text": "Contact instructions"
+      },
+      {
+        "tagname": "gmd:contentInfo",
+        "#text": "Content info"
+      },
+      {
+        "tagname": "gmd:contentType",
+        "#text": "Content type"
+      },
+      {
+        "tagname": "gmd:controlPointAvailability",
+        "#text": "Control point availability"
+      },
+      {
+        "tagname": "gmd:cornerPoints",
+        "#text": "Corner points"
+      },
+      {
+        "tagname": "gmd:Country",
+        "#text": "Country"
+      },
+      {
+        "tagname": "gmd:country",
+        "#text": "Country"
+      },
+      {
+        "tagname": "gmd:country",
+        "#text": "Country"
+      },
+      {
+        "tagname": "gmd:credit",
+        "#text": "Credit"
+      },
+      {
+        "tagname": "gmd:dataQualityInfo",
+        "#text": "Data quality info"
+      },
+      {
+        "tagname": "gmd:dataset",
+        "#text": "Dataset Set"
+      },
+      {
+        "tagname": "gmd:dataSetURI",
+        "#text": "Dataset URI"
+      },
+      {
+        "tagname": "gmd:dataType",
+        "#text": "Data type"
+      },
+      {
+        "tagname": "gmd:date",
+        "#text": "Date"
+      },
+      {
+        "tagname": "gmd:dateOfNextUpdate",
+        "#text": "Date of next update"
+      },
+      {
+        "tagname": "gmd:dateStamp",
+        "#text": "Date stamp"
+      },
+      {
+        "tagname": "gmd:dateTime",
+        "#text": "Date and time"
+      },
+      {
+        "tagname": "gmd:dateType",
+        "#text": "Date type"
+      },
+      {
+        "tagname": "gmd:definition",
+        "#text": "Definition"
+      },
+      {
+        "tagname": "gmd:deliveryPoint",
+        "#text": "Delivery point"
+      },
+      {
+        "tagname": "gmd:denominator",
+        "#text": "Denominator"
+      },
+      {
+        "tagname": "gmd:density",
+        "#text": "Density"
+      },
+      {
+        "tagname": "gmd:densityUnits",
+        "#text": "Density units"
+      },
+      {
+        "tagname": "gmd:describes",
+        "#text": "Describes"
+      },
+      {
+        "tagname": "gmd:description",
+        "#text": "Description"
+      },
+      {
+        "tagname": "gmd:descriptiveKeywords",
+        "#text": "Descriptive keywords"
+      },
+      {
+        "tagname": "gmd:descriptor",
+        "#text": "Descriptor"
+      },
+      {
+        "tagname": "gmd:dimension",
+        "#text": "Dimension"
+      },
+      {
+        "tagname": "gmd:dimensionName",
+        "#text": "Dimension name"
+      },
+      {
+        "tagname": "gmd:dimensionSize",
+        "#text": "Dimension size"
+      },
+      {
+        "tagname": "gmd:distance",
+        "#text": "Distance"
+      },
+      {
+        "tagname": "gmd:distributionFormat",
+        "#text": "Distribution format"
+      },
+      {
+        "tagname": "gmd:distributionInfo",
+        "#text": "Distribution info"
+      },
+      {
+        "tagname": "gmd:distributionOrderProcess",
+        "#text": "Distribution Order Process"
+      },
+      {
+        "tagname": "gmd:distributor",
+        "#text": "Distributor"
+      },
+      {
+        "tagname": "gmd:distributorContact",
+        "#text": "Distributor contact"
+      },
+      {
+        "tagname": "gmd:distributorFormat",
+        "#text": "Distributor format"
+      },
+      {
+        "tagname": "gmd:distributorTransferOptions",
+        "#text": "Distributor transfer options"
+      },
+      {
+        "tagname": "gmd:domainCode",
+        "#text": "Domain code"
+      },
+      {
+        "tagname": "gmd:domainOfValidity",
+        "#text": "Domain of validity"
+      },
+      {
+        "tagname": "gmd:domainValue",
+        "#text": "Domain value"
+      },
+      {
+        "tagname": "gmd:DQ_AbsoluteExternalPositionalAccuracy",
+        "#text": "Absolute external positional accuracy"
+      },
+      {
+        "tagname": "gmd:DQ_AccuracyOfATimeMeasurement",
+        "#text": "Accuracy of time measurement"
+      },
+      {
+        "tagname": "gmd:DQ_CompletenessCommission",
+        "#text": "Completeness commission"
+      },
+      {
+        "tagname": "gmd:DQ_CompletenessOmission",
+        "#text": "Completeness omission"
+      },
+      {
+        "tagname": "gmd:DQ_ConceptualConsistency",
+        "#text": "Conceptual consistency"
+      },
+      {
+        "tagname": "gmd:DQ_ConformanceResult",
+        "#text": "Conformance result"
+      },
+      {
+        "tagname": "gmd:DQ_DataQuality",
+        "#text": "Data quality"
+      },
+      {
+        "tagname": "gmd:DQ_DomainConsistency",
+        "#text": "Domain consistency"
+      },
+      {
+        "tagname": "gmd:DQ_EvaluationMethodTypeCode",
+        "#text": "Evaluation method type code"
+      },
+      {
+        "tagname": "gmd:DQ_FormatConsistency",
+        "#text": "Format consistency"
+      },
+      {
+        "tagname": "gmd:DQ_GriddedDataPositionalAccuracy",
+        "#text": "Gridded data positional accuracy"
+      },
+      {
+        "tagname": "gmd:DQ_NonQuantitativeAttributeAccuracy",
+        "#text": "Non quantitative attribute accuracy"
+      },
+      {
+        "tagname": "gmd:DQ_QuantitativeAttributeAccuracy",
+        "#text": "Quantitative attribute accuracy"
+      },
+      {
+        "tagname": "gmd:DQ_QuantitativeResult",
+        "#text": "Quantitative result"
+      },
+      {
+        "tagname": "gmd:DQ_RelativeInternalPositionalAccuracy",
+        "#text": "Relative internal positional accuracy"
+      },
+      {
+        "tagname": "gmd:DQ_Scope",
+        "#text": "Scope"
+      },
+      {
+        "tagname": "gmd:DQ_TemporalConsistency",
+        "#text": "Temporal consistency"
+      },
+      {
+        "tagname": "gmd:DQ_TemporalValidity",
+        "#text": "Temporal validity"
+      },
+      {
+        "tagname": "gmd:DQ_ThematicClassificationCorrectness",
+        "#text": "Thematic classification correctness"
+      },
+      {
+        "tagname": "gmd:DQ_TopologicalConsistency",
+        "#text": "Topological consistency"
+      },
+      {
+        "tagname": "gmd:DS_Association",
+        "#text": "Association"
+      },
+      {
+        "tagname": "gmd:DS_AssociationTypeCode",
+        "#text": "Association type code"
+      },
+      {
+        "tagname": "gmd:DS_AssociationTypeCode",
+        "#text": "Association type code"
+      },
+      {
+        "tagname": "gmd:DS_DataSet",
+        "#text": "DataSet"
+      },
+      {
+        "tagname": "gmd:DS_Initiative",
+        "#text": "Initiative"
+      },
+      {
+        "tagname": "gmd:DS_InitiativeTypeCode",
+        "#text": "Initiative type code"
+      },
+      {
+        "tagname": "gmd:DS_OtherAggregate",
+        "#text": "Other Aggregate"
+      },
+      {
+        "tagname": "gmd:DS_Platform",
+        "#text": "Platform"
+      },
+      {
+        "tagname": "gmd:DS_ProductionSeries",
+        "#text": "Production Series"
+      },
+      {
+        "tagname": "gmd:DS_Sensor",
+        "#text": "Sensor"
+      },
+      {
+        "tagname": "gmd:DS_Series",
+        "#text": "Series"
+      },
+      {
+        "tagname": "gmd:DS_StereoMate",
+        "#text": "Stereo Mate"
+      },
+      {
+        "tagname": "gmd:eastBoundLongitude",
+        "#text": "East bound longitude"
+      },
+      {
+        "tagname": "gmd:edition",
+        "#text": "Edition"
+      },
+      {
+        "tagname": "gmd:editionDate",
+        "#text": "Edition date"
+      },
+      {
+        "tagname": "gmd:electronicMailAddress",
+        "#text": "Electronic mail address"
+      },
+      {
+        "tagname": "gmd:environmentDescription",
+        "#text": "Environment description"
+      },
+      {
+        "tagname": "gmd:equivalentScale",
+        "#text": "Equivalent scale"
+      },
+      {
+        "tagname": "gmd:errorStatistic",
+        "#text": "Error statistic"
+      },
+      {
+        "tagname": "gmd:evaluationMethodDescription",
+        "#text": "Evaluation method description"
+      },
+      {
+        "tagname": "gmd:evaluationMethodType",
+        "#text": "Evaluation method type code"
+      },
+      {
+        "tagname": "gmd:evaluationProcedure",
+        "#text": "Evaluation procedure"
+      },
+      {
+        "tagname": "gmd:EX_BoundingPolygon",
+        "#text": "BoundingPolygon"
+      },
+      {
+        "tagname": "gmd:EX_Extent",
+        "#text": "Extent"
+      },
+      {
+        "tagname": "gmd:EX_GeographicBoundingBox",
+        "#text": "Geographic bounding box"
+      },
+      {
+        "tagname": "gmd:EX_GeographicDescription",
+        "#text": "Geographic description"
+      },
+      {
+        "tagname": "gmd:EX_SpatialTemporalExtent",
+        "#text": "Spatial Temporal Extent"
+      },
+      {
+        "tagname": "gmd:EX_TemporalExtent",
+        "#text": "Temporal extent"
+      },
+      {
+        "tagname": "gmd:EX_VerticalExtent",
+        "#text": "Vertical extent"
+      },
+      {
+        "tagname": "gmd:explanation",
+        "#text": "Explanation"
+      },
+      {
+        "tagname": "gmd:extendedElementInformation",
+        "#text": "Extended element information"
+      },
+      {
+        "tagname": "gmd:extensionOnLineResource",
+        "#text": "Extension Online resource"
+      },
+      {
+        "tagname": "gmd:extent",
+        "#text": "Extent"
+      },
+      {
+        "tagname": "gmd:extentTypeCode",
+        "#text": "Extent type code"
+      },
+      {
+        "tagname": "gmd:facsimile",
+        "#text": "Facsimile"
+      },
+      {
+        "tagname": "gmd:featureAttribute",
+        "#text": "Feature Attribute"
+      },
+      {
+        "tagname": "gmd:featureCatalogueCitation",
+        "#text": "Feature catalogue citation"
+      },
+      {
+        "tagname": "gmd:featureInstances",
+        "#text": "Feature instances"
+      },
+      {
+        "tagname": "gmd:features",
+        "#text": "Features"
+      },
+      {
+        "tagname": "gmd:featureType",
+        "#text": "FeatureType"
+      },
+      {
+        "tagname": "gmd:featureTypes",
+        "#text": "Feature types"
+      },
+      {
+        "tagname": "gmd:fees",
+        "#text": "Fees"
+      },
+      {
+        "tagname": "gmd:fileDecompressionTechnique",
+        "#text": "File decompression technique"
+      },
+      {
+        "tagname": "gmd:fileDescription",
+        "#text": "File description"
+      },
+      {
+        "tagname": "gmd:fileIdentifier",
+        "#text": "File identifier"
+      },
+      {
+        "tagname": "gmd:fileName",
+        "#text": "File name"
+      },
+      {
+        "tagname": "gmd:fileType",
+        "#text": "File type"
+      },
+      {
+        "tagname": "gmd:filmDistortionInformationAvailability",
+        "#text": "Film distortion information availability"
+      },
+      {
+        "tagname": "gmd:formatDistributor",
+        "#text": "Format distributor"
+      },
+      {
+        "tagname": "gmd:function",
+        "#text": "Function"
+      },
+      {
+        "tagname": "gmd:geographicElement",
+        "#text": "Geographic element"
+      },
+      {
+        "tagname": "gmd:geographicIdentifier",
+        "#text": "Geographic identifier"
+      },
+      {
+        "tagname": "gmd:geometricObjectCount",
+        "#text": "Geometric object count"
+      },
+      {
+        "tagname": "gmd:geometricObjects",
+        "#text": "Geometric objects"
+      },
+      {
+        "tagname": "gmd:geometricObjectType",
+        "#text": "Geometric object type"
+      },
+      {
+        "tagname": "gmd:georeferencedParameters",
+        "#text": "Georeferenced Parameters"
+      },
+      {
+        "tagname": "gmd:graphicOverview",
+        "#text": "Graphic overview"
+      },
+      {
+        "tagname": "gmd:graphicsFile",
+        "#text": "Graphics file"
+      },
+      {
+        "tagname": "gmd:handlingDescription",
+        "#text": "Handling description"
+      },
+      {
+        "tagname": "gmd:has",
+        "#text": "has"
+      },
+      {
+        "tagname": "gmd:hierarchyLevel",
+        "#text": "Hierarchy level"
+      },
+      {
+        "tagname": "gmd:hierarchyLevelName",
+        "#text": "Hierarchy level name"
+      },
+      {
+        "tagname": "gmd:hoursOfService",
+        "#text": "Hours of service"
+      },
+      {
+        "tagname": "gmd:identificationInfo",
+        "#text": "Identification info"
+      },
+      {
+        "tagname": "gmd:identifier",
+        "#text": "Identifier"
+      },
+      {
+        "tagname": "gmd:illuminationAzimuthAngle",
+        "#text": "Illumination azimuth angle"
+      },
+      {
+        "tagname": "gmd:illuminationElevationAngle",
+        "#text": "Illumination elevation angle"
+      },
+      {
+        "tagname": "gmd:imageQualityCode",
+        "#text": "Image quality code"
+      },
+      {
+        "tagname": "gmd:imagingCondition",
+        "#text": "Imaging condition"
+      },
+      {
+        "tagname": "gmd:includedWithDataset",
+        "#text": "Included with dataset"
+      },
+      {
+        "tagname": "gmd:individualName",
+        "#text": "Individual name"
+      },
+      {
+        "tagname": "gmd:initiativeType",
+        "#text": "Initiative Type"
+      },
+      {
+        "tagname": "gmd:ISBN",
+        "#text": "ISBN"
+      },
+      {
+        "tagname": "gmd:ISSN",
+        "#text": "ISSN"
+      },
+      {
+        "tagname": "gmd:issueIdentification",
+        "#text": "Issue identification"
+      },
+      {
+        "tagname": "gmd:keyword",
+        "#text": "Keyword"
+      },
+      {
+        "tagname": "gmd:language",
+        "#text": "Language"
+      },
+      {
+        "tagname": "gmd:LanguageCode",
+        "#text": "Language Code"
+      },
+      {
+        "tagname": "gmd:languageCode",
+        "#text": "Language code"
+      },
+      {
+        "tagname": "gmd:lensDistortionInformationAvailability",
+        "#text": "Lens distortion information availability"
+      },
+      {
+        "tagname": "gmd:level",
+        "#text": "Hierarchy level"
+      },
+      {
+        "tagname": "gmd:levelDescription",
+        "#text": "Level description"
+      },
+      {
+        "tagname": "gmd:LI_Lineage",
+        "#text": "Lineage"
+      },
+      {
+        "tagname": "gmd:LI_ProcessStep",
+        "#text": "Process step"
+      },
+      {
+        "tagname": "gmd:LI_Source",
+        "#text": "Source"
+      },
+      {
+        "tagname": "gmd:lineage",
+        "#text": "Lineage"
+      },
+      {
+        "tagname": "gmd:linkage",
+        "#text": "Linkage"
+      },
+      {
+        "tagname": "gmd:locale",
+        "#text": "Locale"
+      },
+      {
+        "tagname": "gmd:LocalisedCharacterString",
+        "#text": "Localised Character String"
+      },
+      {
+        "tagname": "gmd:localisedString",
+        "#text": "Localised String"
+      },
+      {
+        "tagname": "gmd:maintenanceAndUpdateFrequency",
+        "#text": "Maintenance and update frequency"
+      },
+      {
+        "tagname": "gmd:maintenanceNote",
+        "#text": "Maintenance note"
+      },
+      {
+        "tagname": "gmd:maximumOccurrence",
+        "#text": "Maximum occurrence"
+      },
+      {
+        "tagname": "gmd:maximumValue",
+        "#text": "Maximum value"
+      },
+      {
+        "tagname": "gmd:maxValue",
+        "#text": "Maximum value"
+      },
+      {
+        "tagname": "gmd:MD_AggregateInformation",
+        "#text": "AggregateInformation"
+      },
+      {
+        "tagname": "gmd:MD_ApplicationSchemaInformation",
+        "#text": "Application schema info"
+      },
+      {
+        "tagname": "gmd:MD_Band",
+        "#text": "Band"
+      },
+      {
+        "tagname": "gmd:MD_BrowseGraphic",
+        "#text": "BrowseGraphic"
+      },
+      {
+        "tagname": "gmd:MD_CellGeometryCode",
+        "#text": "Cell geometry code"
+      },
+      {
+        "tagname": "gmd:MD_CharacterSetCode",
+        "#text": "Character set code"
+      },
+      {
+        "tagname": "gmd:MD_ClassificationCode",
+        "#text": "Classification code"
+      },
+      {
+        "tagname": "gmd:MD_Constraints",
+        "#text": "Constraints"
+      },
+      {
+        "tagname": "gmd:MD_CoverageContentTypeCode",
+        "#text": "Content type code"
+      },
+      {
+        "tagname": "gmd:MD_CoverageDescription",
+        "#text": "Coverage description"
+      },
+      {
+        "tagname": "gmd:MD_DataIdentification",
+        "#text": "Data identification"
+      },
+      {
+        "tagname": "gmd:MD_DatatypeCode",
+        "#text": "Data type code"
+      },
+      {
+        "tagname": "gmd:MD_DigitalTransferOptions",
+        "#text": "Digital transfer options"
+      },
+      {
+        "tagname": "gmd:MD_Dimension",
+        "#text": "Dimension"
+      },
+      {
+        "tagname": "gmd:MD_DimensionNameTypeCode",
+        "#text": "Dimension name type code"
+      },
+      {
+        "tagname": "gmd:MD_Distribution",
+        "#text": "Distribution"
+      },
+      {
+        "tagname": "gmd:MD_DistributionUnits",
+        "#text": "DistributionUnits"
+      },
+      {
+        "tagname": "gmd:MD_Distributor",
+        "#text": "Distributor"
+      },
+      {
+        "tagname": "gmd:MD_ExtendedElementInformation",
+        "#text": "Extended elemen information"
+      },
+      {
+        "tagname": "gmd:MD_FeatureCatalogueDescription",
+        "#text": "Feature catalogue description"
+      },
+      {
+        "tagname": "gmd:MD_Format",
+        "#text": "Format"
+      },
+      {
+        "tagname": "gmd:MD_GeometricObjects",
+        "#text": "Geometric objects"
+      },
+      {
+        "tagname": "gmd:MD_GeometricObjectTypeCode",
+        "#text": "Geometric object type code"
+      },
+      {
+        "tagname": "gmd:MD_Georectified",
+        "#text": "Georectified"
+      },
+      {
+        "tagname": "gmd:MD_Georeferenceable",
+        "#text": "Georeferenceable"
+      },
+      {
+        "tagname": "gmd:MD_GridSpatialRepresentation",
+        "#text": "Grid spatial representation"
+      },
+      {
+        "tagname": "gmd:MD_Identifier",
+        "#text": "Identifier"
+      },
+      {
+        "tagname": "gmd:MD_ImageDescription",
+        "#text": "Image description"
+      },
+      {
+        "tagname": "gmd:MD_ImagingConditionCode",
+        "#text": "Imaging condition code"
+      },
+      {
+        "tagname": "gmd:MD_Keywords",
+        "#text": "Keywords"
+      },
+      {
+        "tagname": "gmd:MD_KeywordTypeCode",
+        "#text": "Keyword type code"
+      },
+      {
+        "tagname": "gmd:MD_LegalConstraints",
+        "#text": "Legal constraints"
+      },
+      {
+        "tagname": "gmd:MD_MaintenanceFrequencyCode",
+        "#text": "Maintenance frequency code"
+      },
+      {
+        "tagname": "gmd:MD_MaintenanceInformation",
+        "#text": "Maintenance information"
+      },
+      {
+        "tagname": "gmd:MD_Medium",
+        "#text": "Medium"
+      },
+      {
+        "tagname": "gmd:MD_MediumFormatCode",
+        "#text": "Medium format"
+      },
+      {
+        "tagname": "gmd:MD_MediumNameCode",
+        "#text": "Medium name code"
+      },
+      {
+        "tagname": "gmd:MD_Metadata",
+        "#text": "Metadata"
+      },
+      {
+        "tagname": "gmd:MD_MetadataExtensionInformation",
+        "#text": "Metadata extension info"
+      },
+      {
+        "tagname": "gmd:MD_ObligationCode",
+        "#text": "Obligation code"
+      },
+      {
+        "tagname": "gmd:MD_PixelOrientationCode",
+        "#text": "Pixel orientation code"
+      },
+      {
+        "tagname": "gmd:MD_PortrayalCatalogueReference",
+        "#text": "Portrayal catalogue reference"
+      },
+      {
+        "tagname": "gmd:MD_ProgressCode",
+        "#text": "Progress code"
+      },
+      {
+        "tagname": "gmd:MD_RangeDimension",
+        "#text": "Range dimension"
+      },
+      {
+        "tagname": "gmd:MD_ReferenceSystem",
+        "#text": "Reference system"
+      },
+      {
+        "tagname": "gmd:MD_RepresentativeFraction",
+        "#text": "Representative fraction"
+      },
+      {
+        "tagname": "gmd:MD_Resolution",
+        "#text": "Resolution"
+      },
+      {
+        "tagname": "gmd:MD_RestrictionCode",
+        "#text": "Restriction code"
+      },
+      {
+        "tagname": "gmd:MD_ScopeCode",
+        "#text": "Scope code"
+      },
+      {
+        "tagname": "gmd:MD_ScopeDescription",
+        "#text": "Scope description"
+      },
+      {
+        "tagname": "gmd:MD_SecurityConstraints",
+        "#text": "Security constraints"
+      },
+      {
+        "tagname": "gmd:MD_ServiceIdentification",
+        "#text": "MD Service identification"
+      },
+      {
+        "tagname": "gmd:MD_ServiceIdentification",
+        "#text": "Service identification"
+      },
+      {
+        "tagname": "gmd:MD_SpatialRepresentationTypeCode",
+        "#text": "Spatial representation type code"
+      },
+      {
+        "tagname": "gmd:MD_StandardOrderProcess",
+        "#text": "Standard order process"
+      },
+      {
+        "tagname": "gmd:MD_TopicCategoryCode",
+        "#text": "Topic category code"
+      },
+      {
+        "tagname": "gmd:MD_TopologyLevelCode",
+        "#text": "Topology level code"
+      },
+      {
+        "tagname": "gmd:MD_Usage",
+        "#text": "Usage"
+      },
+      {
+        "tagname": "gmd:MD_VectorSpatialRepresentation",
+        "#text": "Vector spatial representation"
+      },
+      {
+        "tagname": "gmd:measureDescription",
+        "#text": "Measure description"
+      },
+      {
+        "tagname": "gmd:measureIdentification",
+        "#text": "Measure identification"
+      },
+      {
+        "tagname": "gmd:mediumFormat",
+        "#text": "Medium format"
+      },
+      {
+        "tagname": "gmd:mediumNote",
+        "#text": "Medium note"
+      },
+      {
+        "tagname": "gmd:metadataConstraints",
+        "#text": "Metadata constraints"
+      },
+      {
+        "tagname": "gmd:metadataExtensionInfo",
+        "#text": "Metadata extension info"
+      },
+      {
+        "tagname": "gmd:metadataMaintenance",
+        "#text": "Metadata maintenance"
+      },
+      {
+        "tagname": "gmd:metadataStandardName",
+        "#text": "Metadata standard name"
+      },
+      {
+        "tagname": "gmd:metadataStandardVersion",
+        "#text": "Metadata standard version"
+      },
+      {
+        "tagname": "gmd:minimumValue",
+        "#text": "Minimum value"
+      },
+      {
+        "tagname": "gmd:minValue",
+        "#text": "Minimum value"
+      },
+      {
+        "tagname": "gmd:name",
+        "#text": "Name"
+      },
+      {
+        "tagname": "gmd:nameOfMeasure",
+        "#text": "Name of measure"
+      },
+      {
+        "tagname": "gmd:northBoundLatitude",
+        "#text": "North bound latitude"
+      },
+      {
+        "tagname": "gmd:numberOfDimensions",
+        "#text": "Number of dimensions"
+      },
+      {
+        "tagname": "gmd:obligation",
+        "#text": "Obligation"
+      },
+      {
+        "tagname": "gmd:offLine",
+        "#text": "Offline"
+      },
+      {
+        "tagname": "gmd:offset",
+        "#text": "Offset"
+      },
+      {
+        "tagname": "gmd:onLine",
+        "#text": "Online"
+      },
+      {
+        "tagname": "gmd:onlineResource",
+        "#text": "Online Resource"
+      },
+      {
+        "tagname": "gmd:orderingInstructions",
+        "#text": "Ordering instructions"
+      },
+      {
+        "tagname": "gmd:organisationName",
+        "#text": "Organisation name"
+      },
+      {
+        "tagname": "gmd:orientationParameterAvailability",
+        "#text": "Orientation parameter availability"
+      },
+      {
+        "tagname": "gmd:orientationParameterDescription",
+        "#text": "Orientation parameter description"
+      },
+      {
+        "tagname": "gmd:other",
+        "#text": "Other"
+      },
+      {
+        "tagname": "gmd:otherCitationDetails",
+        "#text": "Other citation details"
+      },
+      {
+        "tagname": "gmd:otherConstraints",
+        "#text": "Other constraints"
+      },
+      {
+        "tagname": "gmd:page",
+        "#text": "Page"
+      },
+      {
+        "tagname": "gmd:parameterCitation",
+        "#text": "Parameter citation"
+      },
+      {
+        "tagname": "gmd:parentEntity",
+        "#text": "Parent entity"
+      },
+      {
+        "tagname": "gmd:parentIdentifier",
+        "#text": "Parent identifier"
+      },
+      {
+        "tagname": "gmd:partOf",
+        "#text": "part of"
+      },
+      {
+        "tagname": "gmd:pass",
+        "#text": "Pass"
+      },
+      {
+        "tagname": "gmd:peakResponse",
+        "#text": "Peak response"
+      },
+      {
+        "tagname": "gmd:phone",
+        "#text": "Phone"
+      },
+      {
+        "tagname": "gmd:plannedAvailableDateTime",
+        "#text": "Planned available date and time"
+      },
+      {
+        "tagname": "gmd:pointInPixel",
+        "#text": "Point in pixel"
+      },
+      {
+        "tagname": "gmd:pointOfContact",
+        "#text": "Point of contact"
+      },
+      {
+        "tagname": "gmd:polygon",
+        "#text": "Polygon"
+      },
+      {
+        "tagname": "gmd:portrayalCatalogueCitation",
+        "#text": "Portrayal catalogue citation"
+      },
+      {
+        "tagname": "gmd:portrayalCatalogueInfo",
+        "#text": "Portrayal catalogue info"
+      },
+      {
+        "tagname": "gmd:positionName",
+        "#text": "Position name"
+      },
+      {
+        "tagname": "gmd:postalCode",
+        "#text": "Postal code"
+      },
+      {
+        "tagname": "gmd:presentationForm",
+        "#text": "Presentation form"
+      },
+      {
+        "tagname": "gmd:processingLevelCode",
+        "#text": "Processing level code"
+      },
+      {
+        "tagname": "gmd:processor",
+        "#text": "Processor"
+      },
+      {
+        "tagname": "gmd:processStep",
+        "#text": "Process step"
+      },
+      {
+        "tagname": "gmd:propertyType",
+        "#text": "propertyType"
+      },
+      {
+        "tagname": "gmd:protocol",
+        "#text": "Protocol"
+      },
+      {
+        "tagname": "gmd:PT_FreeText",
+        "#text": "Free text"
+      },
+      {
+        "tagname": "gmd:PT_Locale",
+        "#text": "Locale"
+      },
+      {
+        "tagname": "gmd:PT_LocaleContainer",
+        "#text": "Locale Container"
+      },
+      {
+        "tagname": "gmd:purpose",
+        "#text": "Purpose"
+      },
+      {
+        "tagname": "gmd:radiometricCalibrationDataAvailability",
+        "#text": "Radiometric calibration data availability"
+      },
+      {
+        "tagname": "gmd:rationale",
+        "#text": "Rationale"
+      },
+      {
+        "tagname": "gmd:referenceSystemIdentifier",
+        "#text": "Reference system identifier"
+      },
+      {
+        "tagname": "gmd:referenceSystemInfo",
+        "#text": "Reference system info"
+      },
+      {
+        "tagname": "gmd:report",
+        "#text": "Report"
+      },
+      {
+        "tagname": "gmd:resolution",
+        "#text": "Resolution"
+      },
+      {
+        "tagname": "gmd:resourceConstraints",
+        "#text": "Resource constraints"
+      },
+      {
+        "tagname": "gmd:resourceFormat",
+        "#text": "Resource format"
+      },
+      {
+        "tagname": "gmd:resourceMaintenance",
+        "#text": "Resource maintenance"
+      },
+      {
+        "tagname": "gmd:resourceSpecificUsage",
+        "#text": "Resource specific usage"
+      },
+      {
+        "tagname": "gmd:responsibleParty",
+        "#text": "Responsible Party"
+      },
+      {
+        "tagname": "gmd:result",
+        "#text": "Result"
+      },
+      {
+        "tagname": "gmd:role",
+        "#text": "Role"
+      },
+      {
+        "tagname": "gmd:RS_Identifier",
+        "#text": "RS Identifier"
+      },
+      {
+        "tagname": "gmd:rule",
+        "#text": "Rule"
+      },
+      {
+        "tagname": "gmd:scaleDenominator",
+        "#text": "Scale"
+      },
+      {
+        "tagname": "gmd:scaleFactor",
+        "#text": "Scale factor"
+      },
+      {
+        "tagname": "gmd:schemaAscii",
+        "#text": "Schema ascii"
+      },
+      {
+        "tagname": "gmd:schemaLanguage",
+        "#text": "Schema language"
+      },
+      {
+        "tagname": "gmd:scope",
+        "#text": "Scope"
+      },
+      {
+        "tagname": "gmd:sequenceIdentifier",
+        "#text": "Sequence identifier"
+      },
+      {
+        "tagname": "gmd:series",
+        "#text": "Series"
+      },
+      {
+        "tagname": "gmd:seriesMetadata",
+        "#text": "seriesMetadata"
+      },
+      {
+        "tagname": "gmd:shortName",
+        "#text": "Short name"
+      },
+      {
+        "tagname": "gmd:softwareDevelopmentFile",
+        "#text": "Software development file"
+      },
+      {
+        "tagname": "gmd:softwareDevelopmentFileFormat",
+        "#text": "Software development file format"
+      },
+      {
+        "tagname": "gmd:source",
+        "#text": "Source"
+      },
+      {
+        "tagname": "gmd:sourceCitation",
+        "#text": "Source citation"
+      },
+      {
+        "tagname": "gmd:sourceExtent",
+        "#text": "Source extent"
+      },
+      {
+        "tagname": "gmd:sourceReferenceSystem",
+        "#text": "Source reference system"
+      },
+      {
+        "tagname": "gmd:sourceStep",
+        "#text": "Source step"
+      },
+      {
+        "tagname": "gmd:southBoundLatitude",
+        "#text": "South bound latitude"
+      },
+      {
+        "tagname": "gmd:spatialExtent",
+        "#text": "Spatial extent"
+      },
+      {
+        "tagname": "gmd:spatialRepresentationInfo",
+        "#text": "Spatial representation info"
+      },
+      {
+        "tagname": "gmd:spatialRepresentationType",
+        "#text": "Spatial representation type"
+      },
+      {
+        "tagname": "gmd:spatialResolution",
+        "#text": "Spatial resolution"
+      },
+      {
+        "tagname": "gmd:specification",
+        "#text": "Specification"
+      },
+      {
+        "tagname": "gmd:specification",
+        "#text": "Specification"
+      },
+      {
+        "tagname": "gmd:specificUsage",
+        "#text": "Specific usage"
+      },
+      {
+        "tagname": "gmd:statement",
+        "#text": "Statement"
+      },
+      {
+        "tagname": "gmd:status",
+        "#text": "Status"
+      },
+      {
+        "tagname": "gmd:subset",
+        "#text": "Subset"
+      },
+      {
+        "tagname": "gmd:superset",
+        "#text": "Superset"
+      },
+      {
+        "tagname": "gmd:supplementalInformation",
+        "#text": "Supplemental Information"
+      },
+      {
+        "tagname": "gmd:temporalElement",
+        "#text": "Temporal element"
+      },
+      {
+        "tagname": "gmd:textGroup",
+        "#text": "Text Group"
+      },
+      {
+        "tagname": "gmd:thesaurusName",
+        "#text": "Thesaurus name"
+      },
+      {
+        "tagname": "gmd:title",
+        "#text": "Title"
+      },
+      {
+        "tagname": "gmd:toneGradation",
+        "#text": "Tone gradation"
+      },
+      {
+        "tagname": "gmd:topicCategory",
+        "#text": "Topic category"
+      },
+      {
+        "tagname": "gmd:topologyLevel",
+        "#text": "Topology level"
+      },
+      {
+        "tagname": "gmd:transferOptions",
+        "#text": "Transfer options"
+      },
+      {
+        "tagname": "gmd:transferSize",
+        "#text": "Transfer size"
+      },
+      {
+        "tagname": "gmd:transformationDimensionDescription",
+        "#text": "Transformation dimension description"
+      },
+      {
+        "tagname": "gmd:transformationDimensionMapping",
+        "#text": "Transformation dimension mapping"
+      },
+      {
+        "tagname": "gmd:transformationParameterAvailability",
+        "#text": "Transformation parameter availability"
+      },
+      {
+        "tagname": "gmd:triangulationIndicator",
+        "#text": "Triangulation indicator"
+      },
+      {
+        "tagname": "gmd:turnaround",
+        "#text": "Turnaround"
+      },
+      {
+        "tagname": "gmd:type",
+        "#text": "Type"
+      },
+      {
+        "tagname": "gmd:units",
+        "#text": "Value unit"
+      },
+      {
+        "tagname": "gmd:unitsOfDistribution",
+        "#text": "Units of distribution"
+      },
+      {
+        "tagname": "gmd:updateScope",
+        "#text": "Update scope"
+      },
+      {
+        "tagname": "gmd:updateScopeDescription",
+        "#text": "Update scope description"
+      },
+      {
+        "tagname": "gmd:URL",
+        "#text": "URL"
+      },
+      {
+        "tagname": "gmd:usageDateTime",
+        "#text": "Usage date and time"
+      },
+      {
+        "tagname": "gmd:useConstraints",
+        "#text": "Use constraints"
+      },
+      {
+        "tagname": "gmd:useLimitation",
+        "#text": "Use limitation"
+      },
+      {
+        "tagname": "gmd:userContactInfo",
+        "#text": "User contact info"
+      },
+      {
+        "tagname": "gmd:userDefinedMaintenanceFrequency",
+        "#text": "User defined maintenance frequency"
+      },
+      {
+        "tagname": "gmd:userDeterminedLimitations",
+        "#text": "User determined limitations"
+      },
+      {
+        "tagname": "gmd:userNote",
+        "#text": "User note"
+      },
+      {
+        "tagname": "gmd:value",
+        "#text": "Value"
+      },
+      {
+        "tagname": "gmd:valueType",
+        "#text": "Value type"
+      },
+      {
+        "tagname": "gmd:valueUnit",
+        "#text": "Value unit"
+      },
+      {
+        "tagname": "gmd:version",
+        "#text": "Version"
+      },
+      {
+        "tagname": "gmd:verticalCRS",
+        "#text": "Vertical CRS"
+      },
+      {
+        "tagname": "gmd:verticalElement",
+        "#text": "Vertical element"
+      },
+      {
+        "tagname": "gmd:voice",
+        "#text": "Voice"
+      },
+      {
+        "tagname": "gmd:volumes",
+        "#text": "Volumes"
+      },
+      {
+        "tagname": "gmd:westBoundLongitude",
+        "#text": "West bound longitude"
+      },
+      {
+        "tagname": "gmi:AbstractMI_GeolocationInformation",
+        "#text": "Geolocation Information"
+      },
+      {
+        "tagname": "gmi:accuracyReport",
+        "#text": "Accuracy report"
+      },
+      {
+        "tagname": "gmi:acquisitionInformation",
+        "#text": "Acquisition"
+      },
+      {
+        "tagname": "gmi:acquisitionPlan",
+        "#text": "Acquisition plan"
+      },
+      {
+        "tagname": "gmi:acquisitionRequirement",
+        "#text": "Acquisition requirement"
+      },
+      {
+        "tagname": "gmi:algorithm",
+        "#text": "Algorithm"
+      },
+      {
+        "tagname": "gmi:averageAirTemperature",
+        "#text": "Average air temperature"
+      },
+      {
+        "tagname": "gmi:bandBoundaryDefinition",
+        "#text": "Band boundary definition"
+      },
+      {
+        "tagname": "gmi:checkPoint",
+        "#text": "Check point"
+      },
+      {
+        "tagname": "gmi:childOperation",
+        "#text": "Child operation"
+      },
+      {
+        "tagname": "gmi:collectionIdentification",
+        "#text": "Collection Identification"
+      },
+      {
+        "tagname": "gmi:collectionName",
+        "#text": "Collection name"
+      },
+      {
+        "tagname": "gmi:context",
+        "#text": "Context"
+      },
+      {
+        "tagname": "context",
+        "#text": "Context"
+      },
+      {
+        "tagname": "gmi:coordinateReferenceSystem",
+        "#text": "Coordinate Reference System"
+      },
+      {
+        "tagname": "gmi:description",
+        "#text": "Description"
+      },
+      {
+        "tagname": "gmi:definition",
+        "#text": "Definition"
+      },
+      {
+        "tagname": "gmi:detectedPolarisation",
+        "#text": "Detected polarisation"
+      },
+      {
+        "tagname": "gmi:documentation",
+        "#text": "Documentation"
+      },
+      {
+        "tagname": "gmi:environmentalConditions",
+        "#text": "Environmental conditions"
+      },
+      {
+        "tagname": "gmi:expectedObjective",
+        "#text": "Expected Objective"
+      },
+      {
+        "tagname": "gmi:expiryDate",
+        "#text": "Expiry Date"
+      },
+      {
+        "tagname": "gmi:extent",
+        "#text": "Extent"
+      },
+      {
+        "tagname": "gmi:fileType",
+        "#text": "File Type"
+      },
+      {
+        "tagname": "gmi:gcp",
+        "#text": "GCP"
+      },
+      {
+        "tagname": "gmi:geographicCoordinates",
+        "#text": "Geographic Coordinates"
+      },
+      {
+        "tagname": "gmi:geolocationIdentification",
+        "#text": "Geolocation Identification"
+      },
+      {
+        "tagname": "gmi:geolocationInformation",
+        "#text": "Geolocation Information"
+      },
+      {
+        "tagname": "gmi:groundResolution",
+        "#text": "Ground Resolution"
+      },
+      {
+        "tagname": "gmi:identifier",
+        "#text": "Identifier"
+      },
+      {
+        "tagname": "identifier",
+        "#text": "Identifier"
+      },
+      {
+        "tagname": "gmi:instrument",
+        "#text": "Instrument"
+      },
+      {
+        "tagname": "gmi:latestAcceptableDate",
+        "#text": "Latest Acceptable Date"
+      },
+      {
+        "tagname": "gmi:LE_Algorithm",
+        "#text": "Algorithm"
+      },
+      {
+        "tagname": "gmi:LE_NominalResolution",
+        "#text": "Nominal Resolution"
+      },
+      {
+        "tagname": "gmi:LE_Processing",
+        "#text": "Processing"
+      },
+      {
+        "tagname": "gmi:LE_ProcessStep",
+        "#text": "Process Step"
+      },
+      {
+        "tagname": "gmi:LE_ProcessStepReport",
+        "#text": "Process Step Report"
+      },
+      {
+        "tagname": "gmi:LE_Source",
+        "#text": "Source"
+      },
+      {
+        "tagname": "gmi:maxAltitude",
+        "#text": "Max Altitude"
+      },
+      {
+        "tagname": "gmi:maxRelativeHumidity",
+        "#text": "Max Relative Humidity"
+      },
+      {
+        "tagname": "gmi:meteorologicalConditions",
+        "#text": "Meteorological Conditions"
+      },
+      {
+        "tagname": "gmi:MI_AcquisitionInformation",
+        "#text": "Acquisition Information"
+      },
+      {
+        "tagname": "gmi:MI_Band",
+        "#text": "Band"
+      },
+      {
+        "tagname": "gmi:MI_BandDefinition",
+        "#text": "Band Definition"
+      },
+      {
+        "tagname": "gmi:MI_ContextCode",
+        "#text": "Context Code"
+      },
+      {
+        "tagname": "MI_ContextCode",
+        "#text": "Context Code"
+      },
+      {
+        "tagname": "gmi:MI_CoverageDescription",
+        "#text": "Coverage Description"
+      },
+      {
+        "tagname": "gmi:MI_EnvironmentalRecord",
+        "#text": "Environmental Record"
+      },
+      {
+        "tagname": "gmi:MI_Event",
+        "#text": "Event"
+      },
+      {
+        "tagname": "MI_Event",
+        "#text": "Event"
+      },
+      {
+        "tagname": "gmi:MI_GCP",
+        "#text": "GCP"
+      },
+      {
+        "tagname": "gmi:MI_GCPCollection",
+        "#text": "GCP Collection"
+      },
+      {
+        "tagname": "gmi:MI_GeometryTypeCode",
+        "#text": "Geometry Type Code"
+      },
+      {
+        "tagname": "gmi:MI_Georectified",
+        "#text": "Georectified"
+      },
+      {
+        "tagname": "gmi:MI_Georeferenceable",
+        "#text": "Georeferenceable"
+      },
+      {
+        "tagname": "gmi:MI_ImageDescription",
+        "#text": "Image Description"
+      },
+      {
+        "tagname": "gmi:MI_Instrument",
+        "#text": "Instrument"
+      },
+      {
+        "tagname": "gmi:MI_Objective",
+        "#text": "Objective"
+      },
+      {
+        "tagname": "gmi:MI_Metadata",
+        "#text": "Metadata"
+      },
+      {
+        "tagname": "gmi:MI_ObjectiveTypeCode",
+        "#text": "Objective Type Code"
+      },
+      {
+        "tagname": "gmi:MI_Operation",
+        "#text": "Operation"
+      },
+      {
+        "tagname": "MI_Operation",
+        "#text": "Operation"
+      },
+      {
+        "tagname": "gmi:MI_OperationTypeCode",
+        "#text": "Operation Type Code"
+      },
+      {
+        "tagname": "gmi:MI_Plan",
+        "#text": "Plan"
+      },
+      {
+        "tagname": "gmi:MI_Platform",
+        "#text": "Platform"
+      },
+      {
+        "tagname": "gmi:MI_PlatformPass",
+        "#text": "Platform Pass"
+      },
+      {
+        "tagname": "gmi:MI_PolarisationOrientationCode",
+        "#text": "Polarisation Orientation Code"
+      },
+      {
+        "tagname": "gmi:MI_PriorityCode",
+        "#text": "Priority Code"
+      },
+      {
+        "tagname": "gmi:MI_RangeElementDescription",
+        "#text": "Range Element Description"
+      },
+      {
+        "tagname": "gmi:MI_RequestedDate",
+        "#text": "Requested Date"
+      },
+      {
+        "tagname": "gmi:MI_Requirement",
+        "#text": "Requirement"
+      },
+      {
+        "tagname": "gmi:MI_SensorTypeCode",
+        "#text": "Sensor Type Code"
+      },
+      {
+        "tagname": "gmi:MI_SequenceCode",
+        "#text": "Sequence Code"
+      },
+      {
+        "tagname": "MI_SequenceCode",
+        "#text": "Sequence Code"
+      },
+      {
+        "tagname": "gmi:MI_TransferFunctionTypeCode",
+        "#text": "Transfer Function Type Code"
+      },
+      {
+        "tagname": "gmi:MI_TriggerCode",
+        "#text": "Trigger Code"
+      },
+      {
+        "tagname": "MI_TriggerCode",
+        "#text": "Trigger Code"
+      },
+      {
+        "tagname": "gmi:mountedOn",
+        "#text": "Mounted On"
+      },
+      {
+        "tagname": "gmi:name",
+        "#text": "Name"
+      },
+      {
+        "tagname": "gmi:nominalSpatialResolution",
+        "#text": "Nominal Spatial Resolution"
+      },
+      {
+        "tagname": "gmi:objective",
+        "#text": "Objective"
+      },
+      {
+        "tagname": "objective",
+        "#text": "Objective"
+      },
+      {
+        "tagname": "gmi:objectiveOccurance",
+        "#text": "ObjectiveOccurance"
+      },
+      {
+        "tagname": "gmi:operation",
+        "#text": "Operation Information"
+      },
+      {
+        "tagname": "gmi:operation",
+        "#text": "Operation Information"
+      },
+      {
+        "tagname": "gmi:output",
+        "#text": "Output"
+      },
+      {
+        "tagname": "gmi:parentOperation",
+        "#text": "Parent Operation"
+      },
+      {
+        "tagname": "parentOperation",
+        "#text": "Parent Operation"
+      },
+      {
+        "tagname": "gmi:pass",
+        "#text": "Pass"
+      },
+      {
+        "tagname": "gmi:plan",
+        "#text": "Plan"
+      },
+      {
+        "tagname": "gmi:platform",
+        "#text": "Platform"
+      },
+      {
+        "tagname": "gmi:platformParameters",
+        "#text": "Platform Parameters"
+      },
+      {
+        "tagname": "gmi:priority",
+        "#text": "Priority"
+      },
+      {
+        "tagname": "gmi:procedureDescription",
+        "#text": "Procedure Description"
+      },
+      {
+        "tagname": "gmi:processedLevel",
+        "#text": "Processed Level"
+      },
+      {
+        "tagname": "gmi:processingInformation",
+        "#text": "Processing Information"
+      },
+      {
+        "tagname": "gmi:QE_CoverageResult",
+        "#text": "Coverage Result"
+      },
+      {
+        "tagname": "gmi:QE_Usability",
+        "#text": "Usability"
+      },
+      {
+        "tagname": "gmi:qualityInfo",
+        "#text": "Quality Info"
+      },
+      {
+        "tagname": "gmi:rangeElement",
+        "#text": "Range Element"
+      },
+      {
+        "tagname": "gmi:rangeElementDescription",
+        "#text": "Range Element Description"
+      },
+      {
+        "tagname": "gmi:recipient",
+        "#text": "Recipient"
+      },
+      {
+        "tagname": "gmi:relatedEvent",
+        "#text": "Related Event"
+      },
+      {
+        "tagname": "gmi:relatedPass",
+        "#text": "Related Pass"
+      },
+      {
+        "tagname": "gmi:relatedSensor",
+        "#text": "Related Sensor"
+      },
+      {
+        "tagname": "gmi:report",
+        "#text": "Report"
+      },
+      {
+        "tagname": "gmi:requestedDate",
+        "#text": "Requested Date"
+      },
+      {
+        "tagname": "gmi:requestedDateOfCollection",
+        "#text": "Requested Date of Collection"
+      },
+      {
+        "tagname": "gmi:requestor",
+        "#text": "Requestor"
+      },
+      {
+        "tagname": "gmi:resolution",
+        "#text": "Resolution"
+      },
+      {
+        "tagname": "gmi:resultContentDescription",
+        "#text": "Result Content Description"
+      },
+      {
+        "tagname": "gmi:resultFile",
+        "#text": "Result File"
+      },
+      {
+        "tagname": "gmi:resultFormat",
+        "#text": "Result Format"
+      },
+      {
+        "tagname": "gmi:resultSpatialRepresentation",
+        "#text": "Result Spatial Representation"
+      },
+      {
+        "tagname": "gmi:runTimeParameters",
+        "#text": "Run Time Parameters"
+      },
+      {
+        "tagname": "gmi:satisfiedRequirement",
+        "#text": "Satisfied Requirement"
+      },
+      {
+        "tagname": "gmi:satisifiedPlan",
+        "#text": "Satisified Plan"
+      },
+      {
+        "tagname": "gmi:scanningResolution",
+        "#text": "Scanning Resolution"
+      },
+      {
+        "tagname": "gmi:sensingInstrument",
+        "#text": "Sensing Instrument"
+      },
+      {
+        "tagname": "gmi:sequence",
+        "#text": "Sequence"
+      },
+      {
+        "tagname": "sequence",
+        "#text": "Sequence"
+      },
+      {
+        "tagname": "gmi:significantEvent",
+        "#text": "Significant Event"
+      },
+      {
+        "tagname": "significantEvent",
+        "#text": "Significant Event"
+      },
+      {
+        "tagname": "gmi:softwareReference",
+        "#text": "Software Reference"
+      },
+      {
+        "tagname": "gmi:sponsor",
+        "#text": "Sponsor"
+      },
+      {
+        "tagname": "gmi:status",
+        "#text": "Status"
+      },
+      {
+        "tagname": "status",
+        "#text": "Status"
+      },
+      {
+        "tagname": "gmi:time",
+        "#text": "Time"
+      },
+      {
+        "tagname": "time",
+        "#text": "Time"
+      },
+      {
+        "tagname": "gmi:transferFunctionType",
+        "#text": "Transfer function type"
+      },
+      {
+        "tagname": "gmi:transmittedPolarisation",
+        "#text": "Transmitted polarisation"
+      },
+      {
+        "tagname": "gmi:trigger",
+        "#text": "Trigger"
+      },
+      {
+        "tagname": "trigger",
+        "#text": "Trigger"
+      },
+      {
+        "tagname": "gmi:type",
+        "#text": "Type"
+      },
+      {
+        "tagname": "gml:a",
+        "#text": "a"
+      },
+      {
+        "tagname": "gml:b",
+        "#text": "b"
+      },
+      {
+        "tagname": "gml:begin",
+        "#text": "Begin"
+      },
+      {
+        "tagname": "gml:beginPosition",
+        "#text": "Begin date"
+      },
+      {
+        "tagname": "gml:c",
+        "#text": "c"
+      },
+      {
+        "tagname": "gml:ConventionalUnit",
+        "#text": "Conventional unit"
+      },
+      {
+        "tagname": "gml:conversionToPreferredUnit",
+        "#text": "Conversion to preferred unit"
+      },
+      {
+        "tagname": "gml:coordinates",
+        "#text": "Coordinates"
+      },
+      {
+        "tagname": "gml:description",
+        "#text": "Description"
+      },
+      {
+        "tagname": "gml:end",
+        "#text": "End"
+      },
+      {
+        "tagname": "gml:endPosition",
+        "#text": "End date"
+      },
+      {
+        "tagname": "gml:exterior",
+        "#text": "Outer boundary"
+      },
+      {
+        "tagname": "gml:formula",
+        "#text": "Formula"
+      },
+      {
+        "tagname": "gml:id",
+        "#text": "Identifier"
+      },
+      {
+        "tagname": "gml:identifier",
+        "#text": "Identifier"
+      },
+      {
+        "tagname": "gml:interior",
+        "#text": "Inner boundary"
+      },
+      {
+        "tagname": "gml:LinearRing",
+        "#text": "Linear ring"
+      },
+      {
+        "tagname": "gml:LineString",
+        "#text": "Line"
+      },
+      {
+        "tagname": "gml:Point",
+        "#text": "Point"
+      },
+      {
+        "tagname": "gml:Polygon",
+        "#text": "Polygon"
+      },
+      {
+        "tagname": "gml:relatedTime",
+        "#text": "Related time"
+      },
+      {
+        "tagname": "gml:TimeInstant",
+        "#text": "Time instant"
+      },
+      {
+        "tagname": "gml:TimePeriod",
+        "#text": "Time period"
+      },
+      {
+        "tagname": "gml:timePosition",
+        "#text": "Time position"
+      },
+      {
+        "tagname": "gml:BaseUnit",
+        "#text": "Base unit"
+      },
+      {
+        "tagname": "gml:unitsSystem",
+        "#text": "Units system"
+      },
+      {
+        "tagname": "srsName",
+        "#text": "Spatial Reference System Name"
+      },
+      {
+        "tagname": "srv:SV_ServiceIdentification",
+        "#text": "Service Identification (19119)"
+      },
+      {
+        "tagname": "srv:serviceType",
+        "#text": "Service Type"
+      },
+      {
+        "tagname": "srv:serviceTypeVersion",
+        "#text": "Service Version"
+      },
+      {
+        "tagname": "srv:accessProperties",
+        "#text": "Access Properties"
+      },
+      {
+        "tagname": "srv:restrictions",
+        "#text": "Restrictions"
+      },
+      {
+        "tagname": "srv:containsOperations",
+        "#text": "Contains Operations"
+      },
+      {
+        "tagname": "srv:operatesOn",
+        "#text": "Operates On"
+      },
+      {
+        "tagname": "srv:operationName",
+        "#text": "Operation Name"
+      },
+      {
+        "tagname": "srv:SV_OperationMetadata",
+        "#text": "Operation"
+      },
+      {
+        "tagname": "srv:DCP",
+        "#text": "Distributed Computing Platforms"
+      },
+      {
+        "tagname": "srv:DCPList",
+        "#text": "Distributed Computing Platforms List"
+      },
+      {
+        "tagname": "srv:operationDescription",
+        "#text": "Operation Description"
+      },
+      {
+        "tagname": "srv:invocationName",
+        "#text": "Invocation Name"
+      },
+      {
+        "tagname": "srv:parameters",
+        "#text": "Parameters"
+      },
+      {
+        "tagname": "srv:connectPoint",
+        "#text": "Connect Point"
+      },
+      {
+        "tagname": "srv:dependsOn",
+        "#text": "Depends On"
+      },
+      {
+        "tagname": "srv:providerName",
+        "#text": "Provider Name"
+      },
+      {
+        "tagname": "srv:serviceContact",
+        "#text": "Service Contact"
+      },
+      {
+        "tagname": "srv:name",
+        "#text": "Name"
+      },
+      {
+        "tagname": "srv:description",
+        "#text": "Description"
+      },
+      {
+        "tagname": "srv:optionality",
+        "#text": "Optionality"
+      },
+      {
+        "tagname": "srv:repeatability",
+        "#text": "Repeatability"
+      },
+      {
+        "tagname": "srv:coupledResource",
+        "#text": "Coupled Resource"
+      },
+      {
+        "tagname": "srv:SV_CoupledResource",
+        "#text": "Coupled Resource"
+      },
+      {
+        "tagname": "srv:identifier",
+        "#text": "Identifier"
+      },
+      {
+        "tagname": "srv:couplingType",
+        "#text": "Coupling Type"
+      },
+      {
+        "tagname": "srv:SV_CouplingType",
+        "#text": "Coupling Type"
+      },
+      {
+        "tagname": "srv:extent",
+        "#text": "Extent"
+      },
+      {
+        "tagname": "srv:keywords",
+        "#text": "Keywords"
+      },
+      {
+        "tagname": "gts:TM_PeriodDuration",
+        "#text": "Period duration"
+      },
+      {
+        "tagname": "gmx:Anchor",
+        "#text": "Anchor"
+      },
+      {
+        "tagname": "gmx:name",
+        "#text": "Name"
+      },
+      {
+        "tagname": "gmx:scope",
+        "#text": "Scope"
+      },
+      {
+        "tagname": "gmx:versionNumber",
+        "#text": "Version number"
+      },
+      {
+        "tagname": "gmx:versionDate",
+        "#text": "Version date"
+      },
+      {
+        "tagname": "gmx:language",
+        "#text": "Language"
+      },
+      {
+        "tagname": "gmx:characterSet",
+        "#text": "Character set"
+      },
+      {
+        "tagname": "gmx:FileName",
+        "#text": "File Name"
+      },
+      {
+        "tagname": "gmx:MX_ScopeCode",
+        "#text": "MX_ScopeCode"
+      },
+      {
+        "tagname": "gmx:MimeFileType",
+        "#text": "Mime File Type"
+      },
+      {
+        "tagname": "gmd:taxonomy",
+        "#text": "Taxonomy"
+      },
+      {
+        "tagname": "gmd:MD_TaxonSys",
+        "#text": "Taxonomic System"
+      },
+      {
+        "tagname": "gmd:classSys",
+        "#text": "Classification System Authority"
+      },
+      {
+        "tagname": "gmd:classmod",
+        "#text": "Classification System Modifications"
+      },
+      {
+        "tagname": "gmd:taxongen",
+        "#text": "General Taxonomic Scope"
+      },
+      {
+        "tagname": "gmd:idref",
+        "#text": "Identification Reference"
+      },
+      {
+        "tagname": "gmd:obs",
+        "#text": "Observer"
+      },
+      {
+        "tagname": "gmd:taxonpro",
+        "#text": "Taxonomic Procedures"
+      },
+      {
+        "tagname": "gmd:taxoncom",
+        "#text": "Taxonomic Completeness"
+      },
+      {
+        "tagname": "gmd:voucher",
+        "#text": "Voucher Information"
+      },
+      {
+        "tagname": "gmd:MD_Vouchers",
+        "#text": "Vouchers"
+      },
+      {
+        "tagname": "gmd:specimen",
+        "#text": "Specimen"
+      },
+      {
+        "tagname": "gmd:reposit",
+        "#text": "Repository"
+      },
+      {
+        "tagname": "gmd:taxonCl",
+        "#text": "Taxonomic Classification Information"
+      },
+      {
+        "tagname": "gmd:MD_TaxonCl",
+        "#text": "Taxonomic Classification"
+      },
+      {
+        "tagname": "gmd:common",
+        "#text": "Common Name"
+      },
+      {
+        "tagname": "gmd:taxonrn",
+        "#text": "Taxonomic Rank Name"
+      },
+      {
+        "tagname": "gmd:taxonrv",
+        "#text": "Taxonomic Rank Value"
+      },
+      {
+        "tagname": "gmd:hiclass",
+        "#text": "Hierarchical Classification"
+      },
+      {
+        "tagname": "gfc:FC_FeatureCatalogue",
+        "#text": "Feature Catalogue"
+      },
+      {
+        "tagname": "gfc:featureType",
+        "#text": "Feature Type Information"
+      },
+      {
+        "tagname": "gfc:FC_FeatureType",
+        "#text": "Feature type"
+      },
+      {
+        "tagname": "gfc:typeName",
+        "#text": "Type name"
+      },
+      {
+        "tagname": "gfc:definition",
+        "#text": "Definition"
+      },
+      {
+        "tagname": "gfc:isAbstract",
+        "#text": "Is abstract"
+      },
+      {
+        "tagname": "gfc:featureCatalogue",
+        "#text": "Feature Catalogue Information"
+      },
+      {
+        "tagname": "gfc:carrierOfCharacteristics",
+        "#text": "Carrier of characteristics"
+      },
+      {
+        "tagname": "gfc:FC_FeatureAttribute",
+        "#text": "Feature attribute"
+      },
+      {
+        "tagname": "gfc:memberName",
+        "#text": "Member name"
+      },
+      {
+        "tagname": "gfc:cardinality",
+        "#text": "Cardinality"
+      },
+      {
+        "tagname": "gfc:definitionReference",
+        "#text": "Definition Reference Information"
+      },
+      {
+        "tagname": "gfc:FC_DefinitionReference",
+        "#text": "Definition reference"
+      },
+      {
+        "tagname": "gfc:definitionSource",
+        "#text": "Definition Source Information"
+      },
+      {
+        "tagname": "gfc:FC_DefinitionSource",
+        "#text": "Definition source"
+      },
+      {
+        "tagname": "gfc:source",
+        "#text": "Source"
+      },
+      {
+        "tagname": "gfc:valueMeasurementUnit",
+        "#text": "Value measurement unit"
+      },
+      {
+        "tagname": "gfc:constrainedBy",
+        "#text": "Constrained by"
+      },
+      {
+        "tagname": "gfc:FC_Constraint",
+        "#text": "Constraint"
+      },
+      {
+        "tagname": "gfc:description",
+        "#text": "Description"
+      },
+      {
+        "tagname": "gfc:producer",
+        "#text": "Producer"
+      },
+      {
+        "tagname": "gfc:listedValue",
+        "#text": "Listed value"
+      },
+      {
+        "tagname": "gfc:FC_ListedValue",
+        "#text": "Listed Value"
+      },
+      {
+        "tagname": "gfc:label",
+        "#text": "Label"
+      }
+    ]
+}
